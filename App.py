@@ -20,7 +20,7 @@ st.markdown(
     <div style="background: linear-gradient(90deg, #1e3a8a, #0ea5e9); 
                 padding:20px; border-radius:12px; color:white;">
         <h1 style="margin-bottom:0;">🧫 Malaria Cell Classifier</h1>
-        <p style="margin-top:0;">Developed by Acme Diagnostics | Powered by Deep Learning</p>
+        <p style="margin-top:0;">Developed by Syed Rabees Ali Shah | Powered by Deep Learning</p>
     </div>
     """,
     unsafe_allow_html=True
